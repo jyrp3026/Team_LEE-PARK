@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+.env
+
+# Node
+node_modules/
+dist/
+.pnpm-store/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Manus
+.manus-logs/
+client/public/__manus__/
+.project-config.json
